@@ -30,9 +30,9 @@
 ## Visualizations  
 
 ### 1. Customer Count per Segment  
-![Bar Chart – Customer Count per Segment](https://github.com/mrdhumaltushar/RFM-Customer-Segmentation-Online-Retail/blob/main/BAR%20CHART%20Customer%20Count%20per%20Segment.png).
+![Bar Chart – Customer Count per Segment](https://github.com/mrdhumaltushar/RFM-Customer-Segmentation-Online-Retail/blob/main/BAR%20CHART%20Customer%20Count%20per%20Segment.png)
 ### 2. Recency vs Monetary (with Segment)  
-![Scatter Plot – Recency vs Monetary](https://github.com/mrdhumaltushar/RFM-Customer-Segmentation-Online-Retail/blob/main/SCATTER%20PLOT%20Recency%20vs%20Monetary%20(with%20Segment).png).
+![Scatter Plot – Recency vs Monetary](https://github.com/mrdhumaltushar/RFM-Customer-Segmentation-Online-Retail/blob/main/SCATTER%20PLOT%20Recency%20vs%20Monetary%20(with%20Segment).png)
 ---
 
 ## Tech Stack
