@@ -40,12 +40,3 @@
 - **Jupyter Notebook**  
 
 ---
-
-## Files
-- `RFM_Analysis.ipynb` – Full code  
-- `Final_RFM_Segmentation_Results.csv` – Output  
-- Images (above)
-
----
-
-**Live Repo**: https://github.com/your-username/your-repo
