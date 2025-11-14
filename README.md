@@ -1,7 +1,7 @@
 # RFM Customer Segmentation – Online Retail  
 
 **Goal**: Segment 5,860 customers using **Recency, Frequency, Monetary (RFM)** to drive targeted marketing.
-(https://archive.org/download/online_retail_II/online_retail_II.xlsx)
+![Bar Chart – Customer Count per Segment](https://archive.org/download/online_retail_II/online_retail_II.xlsx)
 ---
 
 ## Key Results
