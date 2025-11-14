@@ -34,7 +34,7 @@
 ---
 
 ## Visualizations
-![RFM Scatter Plot](images/scatter_rfm.png)
+![RFM Scatter Plot](images/SCATTER PLOT Recency vs Monetary (with Segment).png)
 ![Segment Bar Chart](images/segment_bar.png)
 
 ---
