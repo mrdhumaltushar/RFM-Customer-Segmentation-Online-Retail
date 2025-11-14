@@ -45,11 +45,5 @@
 
 ---
 
-## Files
-- `RFM_Analysis.ipynb` – Full code
-- `Final_RFM_Segmentation_Results.csv` – Output
-- `images/` – Charts
 
----
 
-**Live Link**: [github.com/yourname/rfm-retail-segmentation](https://github.com/yourname/rfm-retail-segmentation)
